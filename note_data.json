@@ -1,0 +1,22 @@
+{
+    "English HW": {
+        "tags": [
+            "hw",
+            "essay",
+            "test"
+        ],
+        "text": "Do english essay\nasdksajkdhasd\nasfjhbjhsad\nsdflsdkfjdsf\napple"
+    },
+    "Maths HW": {
+        "tags": [
+            "hw"
+        ],
+        "text": "do tasks 1-9\naskjsdfkfghkdskjaskjnsakjnks\n\nsdfdgfdgfd"
+    },
+    "Shopping List": {
+        "tags": [
+            "lists"
+        ],
+        "text": "Buy apples & milk carrots"
+    }
+}
