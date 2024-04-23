@@ -12,9 +12,9 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtCore import Qt
 
-from rich import print # Color codes data types when we print them
-from rich.traceback import install
-install(show_locals=True) # Creates custom error messages and displays variable values in the terminal
+# from rich import print # Color codes data types when we print them
+# from rich.traceback import install
+# install(show_locals=True) # Creates custom error messages and displays variable values in the terminal
 
 
 ### Data ###
